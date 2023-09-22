@@ -1,0 +1,1001 @@
+create 30 30 .
+pop_back_row
+get 15 7 .
+set 16 0 p
+set 12 4 y
+set 3 5 s
+set 11 20 y
+set 26 19 a
+set 1 29 y
+pop_back_row
+push_back_row 30 g v g o i f j j u b e l e b u k l v w o j t z c c l a j r u
+pop_back_row
+set 8 13 n
+get 24 21 .
+get 6 5 .
+set 11 22 c
+set 0 12 l
+push_back_column 28 p g c y b s q s v s p k q z d h l g k c u a g p z c f i
+pop_back_column
+pop_back_row
+set 7 7 m
+set 8 27 k
+get 5 27 .
+get 2 29 .
+set 2 23 i
+pop_back_column
+push_back_column 27 y g x k c j d n w k r e q s t n f u k j m l k e r n z
+pop_back_row
+get 8 9 .
+get 7 23 .
+pop_back_row
+push_back_column 25 c v s g l f j b q w x u n m n w r n i n g q s p d
+push_back_row 31 u v b j x k y e g g y p p t r p l s g z g r s u q m y d u p s
+set 24 0 y
+set 6 9 m
+pop_back_row
+pop_back_column
+pop_back_column
+get 23 5 .
+get 6 3 .
+set 20 9 x
+push_back_column 25 c p f u l v t t u n o b s l s e r v v a a x q z j
+get 5 15 .
+pop_back_column
+set 6 1 c
+set 3 4 a
+push_back_row 29 o n u x c w y o n p r q f a h d m e c y s z i z l s l x l
+get 15 3 .
+push_back_column 26 w n m l j u n x u f z c m l f y i x x d c h r j a o
+set 5 29 l
+push_back_row 30 a i h r s n t a a h m f h t a k s r m u x w y n t a n n z j
+pop_back_row
+push_back_column 26 s h j o f f k t f x t e i t f q c t m t o i a b t x
+pop_back_column
+pop_back_row
+get 8 10 .
+push_back_row 30 n g q e j s o v j d u n o x s c g u q j r x s q o g t u b g
+push_back_column 26 s l f d x h q f o k g u u k y f o z e z h o g i l c
+set 11 3 q
+set 24 25 i
+set 10 10 a
+set 5 2 v
+pop_back_column
+push_back_row 30 f t z t n v o e v e z i h x x y p p g d e r w m c m m a o e
+set 22 27 j
+push_back_row 30 e o p l t f j e c x l d t e x h q u c u i m k l n c e q s h
+pop_back_row
+set 26 21 w
+set 9 27 u
+pop_back_column
+set 4 18 d
+set 19 21 s
+push_back_column 27 z u e u p y m l i d l i n r l m j z k s k z w x c k l
+push_back_row 30 m y y x g n e o h b n g a l o l d c m e c j q r v m t s a t
+set 5 5 p
+get 26 1 t
+get 2 26 .
+get 24 15 .
+set 18 10 e
+set 19 26 h
+set 24 22 z
+set 5 27 b
+push_back_column 28 z n t x f h s o v o p w d g l b n q s c a s j e s g n v
+push_back_row 31 a x z k r c s v e k l a e j u h p p f r k u z s z c o h s h l
+get 1 1 .
+set 21 25 e
+set 19 14 h
+pop_back_row
+set 27 14 y
+pop_back_row
+get 18 24 .
+set 16 28 q
+set 21 23 w
+push_back_column 27 m a p f b w t l w t q a a k x p z h m b q r e o o f s
+pop_back_row
+get 19 4 .
+push_back_row 32 m l n c c q h m j v b b n n j p n t y v z m s b g o v q m t v u
+set 0 4 x
+push_back_column 27 q w h x q q x w c i l w g j e w s x y b q i u e v q u
+push_back_row 33 h t b j c u u m d j k u k z o l l w p q d v g c z q i z t m s u q
+get 5 8 .
+set 21 6 w
+pop_back_column
+pop_back_column
+push_back_column 28 w v o o w s y t j v t o d v i i h v q j e v r k s y j x
+get 7 8 .
+pop_back_row
+pop_back_column
+push_back_row 31 y h s s r e t y v b a j b j y b z l b o h r s n q b c i q w n
+push_back_row 31 b a e d y i s a s l l p c h f n v m f e i n k d w i e s v m j
+set 13 7 o
+pop_back_column
+pop_back_column
+get 7 7 m
+push_back_column 29 y f w n h d p x v z k j t q z k c f c d i m b o r h v h m
+push_back_row 30 y d j h f b j b h v o q e i n x n r x j n f h u p t a x m x
+set 15 0 g
+pop_back_column
+pop_back_column
+set 7 10 c
+set 15 19 l
+set 5 12 h
+push_back_row 28 r w f u t m i q s b q v q m z u e b i i n v p w r k f w
+push_back_column 31 o j t w d p d q j j g l c p f y j u a s o w p n n s u q l c t
+pop_back_row
+get 27 21 r
+get 20 5 .
+get 0 13 .
+set 2 23 n
+set 1 24 q
+pop_back_column
+pop_back_row
+pop_back_column
+set 9 1 o
+pop_back_row
+get 16 21 .
+get 26 24 g
+set 26 26 m
+push_back_row 27 s s r o w a v c q f q j u r k x m g q a x j n v r j j
+get 27 26 c
+pop_back_column
+push_back_column 29 u t x p s a x o u s x d w b f b e h j x w x h c l s m y r
+pop_back_column
+set 19 19 w
+push_back_column 29 z u w b s m e a i g x y q w w y d i i s o s d r h n c r i
+set 16 11 a
+set 17 4 s
+set 25 18 q
+push_back_column 29 e j k l e e j b h x h h d d c j s r u y f f b e g a a j v
+set 18 17 s
+push_back_column 29 o m z d x l l c f m j m q w c c e o x k r w j y z c l t c
+push_back_row 29 u m l z u w j t t h u z b h w i l r s b o q i d v t w i a
+get 12 5 .
+pop_back_column
+push_back_column 30 p i k n j j p j n y o b m c m c t w k g p f x v u d g d n v
+get 5 5 p
+set 3 15 q
+set 19 22 i
+push_back_row 29 m i q s r l y j x i i t e t r q s h m w x c v d y p u q p
+set 22 5 v
+pop_back_row
+get 14 6 .
+set 6 21 b
+set 1 24 n
+set 26 15 a
+get 18 16 .
+set 10 3 z
+get 16 19 .
+set 27 7 c
+set 3 21 e
+set 25 12 j
+set 24 9 t
+set 0 24 f
+push_back_column 30 f c w q p q i j k o v e n w y j w c j f s f u c d k e r f p
+get 4 21 .
+set 20 22 h
+push_back_column 30 y n t k d v e y g e v q r z b h f s p g t o s x o o d c h m
+pop_back_column
+set 25 26 b
+set 3 2 x
+get 29 10 u
+set 21 18 b
+pop_back_column
+get 17 7 .
+set 15 3 n
+push_back_column 30 t o s v d l v b t u m v e y p b e d s y l z o o m d r k x i
+push_back_row 30 b b j w n i b m g b w v z y m y u g h u n g z k i w m s o z
+set 27 1 e
+push_back_column 31 c u o w o o h v z i w i r u o y y n h w n n x n u n a o n t k
+pop_back_row
+push_back_row 31 s m h a t v f l k e n v o t o n w i j p s f v y b n w g l o a
+push_back_row 31 w s f k t a v j q b s k d n y v v w q u t h g c c c y a l i z
+push_back_row 31 k j m z c s p p m s w h b u j y s j k x t k w p j t i w o f x
+set 29 17 n
+push_back_row 31 x j k l p k b o p n l x f g u v v n y k x a h b l r f e q a x
+set 19 6 x
+push_back_column 34 h x b v b g y y w s k j u x p g j m k y k p h d f x n o j c k m l c
+push_back_row 32 n l s d s k k y z g s r c y t g p g e r q w t w l y h s z y h g
+push_back_row 32 x l h z l c p j q y j t m k c g l u s g p x q l o s k p u l z n
+get 12 0 .
+set 31 30 t
+pop_back_column
+push_back_row 31 z x u k i t l c i z i b i j x k z w t t f t r o m n u c z u r
+push_back_row 31 n v x n b e r w q w m l b j j a q k l v t z p k m o e l q u r
+get 29 6 j
+push_back_column 38 m h b l h f t k v o o i q f m q t p p v i f f q m j p i m o k f v z v f b n
+get 22 27 b
+get 10 26 x
+push_back_column 38 d r w f p g c c w i f a i c y z i l l g d w e t q b v e u j w l y n s b y b
+push_back_column 38 m g c t p s q g o k g w w m j d y y l q x f k x c y e t f a r l y t w q y y
+get 3 27 l
+pop_back_row
+pop_back_row
+set 31 21 w
+pop_back_row
+set 30 12 h
+pop_back_row
+set 14 22 r
+push_back_row 34 c i y d r g j i b f c g m w e r l e b p p f s p z q v q q g l l w w
+pop_back_row
+set 28 17 b
+set 31 14 c
+get 21 27 f
+get 16 6 .
+set 21 28 o
+push_back_row 34 x f u o b s d x z c v u q i e x o x m s j e n z h d x a q o s o r u
+pop_back_column
+set 1 3 s
+push_back_row 33 c e u e x x p g v h r c d y l n w t r q h v k n k p u l h w l f n
+push_back_row 33 o q t d i n a c e a w d j s p r n t p h h k h r a l o l y d o m z
+set 33 29 w
+pop_back_row
+set 19 17 m
+pop_back_row
+pop_back_column
+set 6 2 c
+set 10 31 d
+get 6 21 b
+push_back_row 32 t j b a m v n o p r b q i q x s f z y i j c v s q p c c x k z m
+get 33 9 n
+get 23 17 .
+set 22 28 r
+push_back_column 36 d i f y z a n t h k s h f m e i z o o p z t x y u i d y h h t x y s t v
+set 27 15 c
+set 23 32 w
+get 32 2 m
+pop_back_column
+pop_back_column
+set 17 8 o
+pop_back_row
+push_back_row 31 g q w e a d g o g q v n c v q x c y q a g f k h u b t p r n q
+push_back_column 36 m f k g a p v l o n i a z c x f s h t m a w b p q a v u q l q o w g b a
+set 9 8 q
+set 32 3 e
+get 27 27 j
+set 1 8 p
+pop_back_row
+push_back_column 35 w w c g y x j t m e s h p a m b t b h k s f t o g s k n i m h z g b c
+push_back_row 33 j s f t v v e y n t g x i v b g n s k c o o d g t j u p k y e j b
+push_back_row 33 p x l s j k y m v w v x j l m w y g u q v i f f e m k p n f m l a
+set 7 23 g
+push_back_row 33 e x h x b z z h a z c y f t c v l e x v s d l r v q o x p d f y w
+push_back_column 38 a g y h q i y x u j x c x a f k w o s d a g u k o o x p z h n j d j l r r v
+get 18 2 .
+pop_back_column
+set 28 7 f
+set 14 26 n
+push_back_row 33 u m b t u q i k d p g z e y o s y y z s p z o q q t q d y n w a l
+push_back_column 39 t y o x e p b g y r c i w g x a h m p c d z z m e j k v h g b n h u q b o n e
+set 0 21 x
+pop_back_column
+push_back_column 39 p k r k s u r g q h z p m p z a e y d h y r i i o a c b l t s x a m r u n n v
+push_back_column 39 j u q m o m x x w b h l x s f k p q p u t z g f k e d y j k g m x f t k e y q
+pop_back_column
+pop_back_column
+push_back_row 33 h i o u q z b t h o x y l j t l p s w p m m f w a w p e z m k b y
+set 32 21 j
+set 9 19 m
+push_back_row 33 i p x n l p o a y l a g v u p s z f h y i a u r t d u b m c w b v
+push_back_column 41 z j r a j d p a z r a g w m z t l l k w o e l w y s n z j f y j g s m a o r r b d
+set 29 5 m
+push_back_column 41 i u g e p h w x i z c u e t f t v d i u x s k q d w e n a i d c d m q l r y l b t
+get 26 1 l
+get 40 31 b
+pop_back_row
+set 30 22 v
+pop_back_column
+pop_back_column
+get 2 3 .
+set 3 3 i
+get 23 27 e
+pop_back_row
+get 9 18 .
+get 12 11 .
+set 19 12 h
+get 35 4 v
+push_back_column 39 i t r b h f h j l i w i e n k h d t i m f l r d z q u s g f i w h n z t m w e
+set 37 12 i
+set 29 11 q
+set 9 18 b
+push_back_column 39 a e e z h w s s x w n p c j k b o h e q p h o u h p a c j m r m i o l b o n t
+push_back_row 35 a b l l b m u u l v w z t j s v n r w m i s f p w k d f l o y d w u o
+pop_back_row
+get 33 34 o
+set 28 1 j
+pop_back_column
+get 34 21 e
+push_back_row 34 r h w p u z f b j g n q m e e t j t f k t w o r m w h u j a z j y d
+get 6 14 .
+pop_back_column
+pop_back_row
+pop_back_row
+set 5 30 h
+set 15 2 g
+get 7 4 .
+set 28 10 s
+set 30 25 e
+pop_back_column
+pop_back_column
+push_back_row 31 e v f g k c j r n e k m f f j f h a g m x b g d f l p s q e a
+push_back_row 31 x o o j j t f w z w p g d e s u f n w e i z r h a n e s n l d
+set 38 12 p
+push_back_row 31 o n o d i p v c h k m j o o s a y l y j l y x p r r u x l e l
+set 18 17 s
+set 3 10 t
+pop_back_column
+push_back_column 41 a l b l l w j t z b e k k i q j p l n j d p d d k k y j k i p v h o y x y x s d r
+set 9 20 d
+pop_back_row
+get 6 11 .
+push_back_row 31 i j j i y q p z z w y e a h q m b l w e t a q m s x s r g s p
+get 8 4 .
+get 4 27 e
+set 20 6 n
+set 34 13 i
+set 33 0 o
+pop_back_row
+set 30 30 f
+set 19 28 g
+set 14 22 m
+get 28 26 i
+push_back_row 31 p i z v d t f v u q r g f p v r q j w f b t z z f i p n g n n
+get 20 28 p
+push_back_row 31 x b k d u z k a f o a t n p m j f c x z y l n z q x g h c r q
+pop_back_column
+push_back_row 30 r e p j m d i p x n v b j e v a g p m z m o b i h g t e w s
+push_back_row 30 i r t u x v f s i r t c n g g v f j a h e b s a u o v h w c
+pop_back_row
+set 25 27 y
+push_back_column 43 d e e u q b f s w x l q t q n e s f f j g h x l l x q l d f n z l f t n u h x t l b j
+get 16 0 p
+get 42 28 w
+push_back_column 43 r k a k q u a i s j g w w d p b r y e e j m r t x j p s o f p c n t r p a c f z g c i
+set 12 6 g
+set 41 25 w
+set 26 5 z
+push_back_column 43 q s w g x l l b l k o r h f c b t z t y c z a d x j q w g s g p a b c w d p k s p d l
+set 20 27 s
+get 30 7 l
+pop_back_row
+push_back_row 33 e h x f p q z i v o d k g v p z g o a i g u b z i i c e j d l y y
+set 2 13 l
+push_back_row 33 w i h z u y k a p a p f g r q i u q c s p n f b x o f g n c x j w
+set 14 2 b
+push_back_column 44 c t e h y s z u c d v x x n p l a n d w m b y g t w h a a u r j x l c r a j q q f d w w
+get 1 14 .
+push_back_row 34 x b e u t u j h q t i s r s r d a i r k g m d q q x v m y c i r w d
+set 8 12 z
+push_back_column 45 a e u z w e i x q f g n u z y i s i o m g e m t s v e o u n c h y n n b x f k i y c s n a
+set 9 4 n
+set 43 11 j
+pop_back_row
+get 24 0 y
+pop_back_column
+pop_back_row
+push_back_row 34 b t d p x y y k i l e q c m z x q f c h d t b i w c n n a t e n x b
+pop_back_column
+get 32 32 a
+pop_back_column
+set 2 14 u
+push_back_column 44 c r a r r z p b s u j v m b r o t z u u s y w d r i v y b z p t z c p g b v b j y s n e
+push_back_column 44 z p c v u p v y m c u o g j u s h f i j z i w v z l r k j y z l k o i f w b h l p y h a
+get 19 31 e
+pop_back_row
+set 19 1 s
+get 5 8 .
+set 22 12 d
+get 32 2 m
+pop_back_row
+get 31 13 n
+push_back_row 34 s h h e h d x c p q m n t h r n f e i x w g n l q p c n s c o r o c
+pop_back_column
+push_back_row 33 b t t q q a p r a x a v e p y h w n r o a j l x t r r j c o u q w
+set 8 4 r
+set 33 7 v
+pop_back_column
+push_back_row 32 w w s b v c o s n a m j g a h o j y k b b x b g r w a f j k f j
+pop_back_column
+pop_back_column
+set 16 11 h
+get 37 10 c
+push_back_column 45 k v h p x v d f h b y q b a v a i w m a y y c v h m n r p q f v x p p y m x t g p r e v o
+push_back_column 45 w c n v f u x u e u o j p d d h c k r v s n o c t q l l t n g n m q i r y z r u t c t q y
+set 15 23 r
+set 4 3 t
+push_back_row 32 v z a h y z h q u r d b j k m r x c c x p y o h x l x e c a o e
+push_back_column 46 p w p f f d w r n p x v k w c m g m w e q k v o d d k i h d p e t n c b r v g d f i f u n z
+push_back_row 33 w v g v w q j s l g t t y q k y w r u i a p h p u y y s m o s z i
+pop_back_row
+get 40 6 f
+pop_back_row
+set 9 28 t
+set 23 3 k
+set 12 23 r
+pop_back_column
+push_back_column 45 o b r a g f i l q w d i o t f c u v x c d i f x j q s g f d l z t n q e e b f n y w z a x
+pop_back_row
+push_back_column 44 s y i i i d y b d l d a v s h i n t p t y w z r l o a a a f f f e o x g a j v q v w o y
+get 34 21 e
+get 31 21 w
+set 32 7 z
+get 33 31 q
+set 21 32 a
+set 33 28 k
+push_back_column 44 p b e f u e m s d u y l i k o q a v g j q f q s u j u m h z m l s d c z l a o x i g s e
+pop_back_column
+push_back_column 44 j e x m x b u u m m y a b t l a m m f e g j q e m c p v p y f i m x j w o v p x b c c f
+pop_back_row
+get 15 34 a
+push_back_column 43 l y t h d q n b w r p i b z e j j r j r g s h z d v k s t a i u f m a e u i c r g s m
+push_back_column 43 x m b o d e w o r p f q b t i z v q s f y m b j y i h r a n l q h b m d e h r u x g t
+set 2 30 e
+get 16 6 .
+get 25 28 d
+set 30 1 y
+get 5 5 p
+push_back_row 37 m j j t p w g a i y w z d k l f h r a d p g u a f r p v a f q x x r i z q
+set 36 2 x
+set 15 13 s
+set 16 15 b
+set 24 8 p
+pop_back_column
+push_back_row 36 f f x h n r l k n n v z d x m c h q h y g j k r u s r u w m p r q j i w
+pop_back_row
+pop_back_row
+pop_back_row
+get 24 3 .
+set 2 33 d
+push_back_column 42 c f y a o b k p o o x y p g c n h k l b d v j r x x t t w c n a x l h q w b l t w p
+set 30 0 n
+get 28 36 w
+get 39 33 q
+set 9 12 k
+get 24 1 .
+push_back_column 42 t r h t a k l o w n d f t f a a o e r b f m z b r y f z b g n e s f z n x l x o u g
+set 24 10 e
+set 3 23 h
+pop_back_row
+set 15 9 j
+push_back_row 38 g t t s w l t s b k k l t y o g g a x p q x h y o g e b i r x n d w v l k h
+get 37 29 d
+get 0 16 .
+push_back_row 38 i z u u d e j r k t w f q i o o r b p r v n h w y r w l u u j u l j o i n o
+get 9 35 r
+pop_back_column
+get 25 24 o
+get 6 20 .
+pop_back_row
+pop_back_row
+get 8 20 .
+push_back_row 37 t i p g o u c l s o k n w z k i u p z f r z b b a i j f j r y f o w f a g
+set 20 27 m
+pop_back_row
+get 18 2 .
+pop_back_row
+get 1 2 .
+get 29 30 q
+get 39 8 z
+push_back_row 37 z p k o b g b n s r r z z d m n w b t g f t z y h k q l z q u w y r g a l
+pop_back_column
+push_back_column 41 t n h k q c c g v i p b q u r i q d q u p q m f e y b n d m u n v h k g e d r h q
+set 37 31 s
+set 15 24 k
+set 23 5 g
+pop_back_row
+get 33 23 b
+pop_back_column
+set 17 18 y
+set 17 16 l
+pop_back_row
+set 38 5 t
+set 11 18 r
+get 8 15 .
+set 9 1 a
+get 28 24 r
+set 12 4 j
+set 16 6 p
+get 24 11 .
+get 23 9 .
+push_back_column 39 r m r x j p o i v v u v d p l v n e t k c t b s c a f q n q d g i m k u n i z
+push_back_row 37 m c b c s v f k o z w g l n v g b l b e c j p l d t u y u c m j m o s u a
+push_back_column 40 d e d j j u f o l y e i f q e h p c l h m d o w g s w a o m z s x d o i b d m b
+push_back_row 38 j l j b x q r k y f s a a x p f b g k d c g p e a u n x x f x o n v f j x h
+set 37 37 n
+get 32 25 t
+pop_back_row
+push_back_row 38 q g t g o t q w v n s w b b s i g e y q i a r l q n p w h w n w q y w u d g
+pop_back_column
+get 17 13 .
+pop_back_row
+set 17 27 i
+push_back_column 40 i i v t z j l a l f a z r w o p l w o u q o a w t b h q x b e h y e d r f v w c
+get 6 19 .
+set 2 21 t
+set 10 25 s
+pop_back_row
+pop_back_row
+push_back_column 38 i m b u m k p b y i d a p n m f n h s f c o x a w d k d r v k u b e f a k j
+get 23 11 .
+set 22 10 m
+push_back_column 38 v l b w n c i f g u g v w h p l g y d i r y e o b s v a h y m r n s l o z e
+get 10 7 .
+pop_back_row
+set 15 33 r
+push_back_column 37 l q b r t h u o j r q u w j d u f t z b l y t a x g r n g x o g q p l n a
+set 20 36 h
+get 24 5 .
+get 3 32 a
+pop_back_column
+pop_back_row
+set 27 28 d
+get 30 10 n
+set 20 16 q
+set 15 27 x
+get 21 38 o
+push_back_row 40 q v j v z y t o h g v n l u j u m g v l v c z r m x s d j i y d f i b n r t h b
+set 17 13 l
+set 19 34 h
+push_back_row 40 l l r h o y k q m c p p j i u m k u g p i f f n e s a o z n n a r c h r s w b s
+pop_back_column
+get 2 32 r
+get 11 23 .
+push_back_column 38 e k x y u k p v p v n t n y y t u z r c c h k i x u e f a j p p z v v o z h
+get 10 31 o
+pop_back_column
+get 27 25 b
+set 2 19 a
+set 34 1 y
+push_back_column 38 z z c b c v y n l b u q x t n d z e u y t e s h p n x w h e n j j q n y j r
+set 28 27 t
+push_back_row 40 j i z c t f x k d w z w q t s z n s j w a x m w k c p b i y t t m u g p d t t f
+get 35 39 y
+pop_back_column
+set 29 33 k
+pop_back_column
+push_back_row 38 f v d t s k h h i r u m w w p t u k r p t p j n r d b s i c r g k w x b q g
+get 17 29 d
+pop_back_row
+set 38 1 o
+set 14 19 f
+push_back_row 38 m e u b t w n a z i v g e a r u z o w e b f w v j b i t v s f a r r t c w k
+set 29 27 m
+push_back_row 38 y s u u c v b t n h z y e j x k m j d c d g y w y o y t u t u p f i x o b a
+set 29 34 u
+set 14 3 r
+set 35 9 z
+pop_back_row
+push_back_column 40 u j b x e g o t d e l j f c y g i t v q v b w k z u f i p f z g a z t f u t w z
+get 5 5 p
+set 4 36 j
+push_back_column 40 d f f t u u d u s d u e h u p h s s g w m b t p e s c n a h q y o f h n h r b b
+get 18 31 r
+get 30 28 l
+get 18 36 t
+set 7 9 x
+get 0 6 .
+push_back_column 40 p w w j n j t i k o c s m c v w v e o v e d p j w s x h f s p y b k s e n k m q
+set 33 6 c
+get 13 5 .
+push_back_row 41 p m h w j c x k p e o m o v g i o h t u i r v c l b a k i j j j a s v p i j r u m
+push_back_column 41 a u p v u j s d l x q f x z g n j a x x r a f e f k o z d a b s d f y h v y t g a
+pop_back_column
+set 1 35 k
+get 16 9 .
+pop_back_column
+pop_back_row
+set 6 23 f
+pop_back_row
+pop_back_column
+get 15 27 x
+set 5 24 s
+set 36 22 r
+pop_back_row
+push_back_column 38 v l y x q z o c v x r k n u v e y x j o d x u x s z t w o v e n p s h t o s
+get 8 8 .
+get 36 11 n
+set 26 19 a
+set 25 34 h
+push_back_column 38 q w y j o i y r v d v c o y k y f j a m j m f d e g c i p o x y e k y z b d
+set 34 4 e
+push_back_row 41 q o t y h w w t m p a y h f l c v v m z p f z e o n v i c u l h u e l x b y u t e
+pop_back_row
+set 2 4 v
+push_back_row 41 b n e i m m n o g h b m m e b l t t l j r h d t j h c s x k h d k e d v i i k g u
+push_back_row 41 r n l k u f x g x k f v a u r i j g s p n z k b j r f d f v y a l k i u h d z p c
+set 39 18 j
+set 17 17 n
+get 37 7 q
+set 5 30 l
+push_back_column 40 f a z m q s z n k k k c h k c m p h x b t i y c k o s p e v z l r q o b b d d k
+push_back_row 42 l q d o o q w v p f k b m v l f p w t p u u v x w l r c p b h s w z v x a n v s u a
+push_back_row 42 b m n f u t t w h w p p m a a w w j d j u r z w z o p k w w p d q f x o g e a l p v
+set 2 38 b
+push_back_column 42 k v t s q h r n t l b c e b m i a g m h m c t i k e k s s t j s a x z w r s r a q s
+push_back_row 43 n b m e h v y x x m s o w s z u p t q j n v a d e i p r h j f y s l z a t j r r h x m
+get 33 37 e
+pop_back_column
+set 0 32 v
+set 31 33 h
+set 36 23 h
+pop_back_column
+set 17 10 o
+pop_back_row
+push_back_column 42 x j j p a k i i z s u d r s q g w k t z u s g t c o s g d r a b c m b d l z j f h y
+push_back_row 42 c m p c q c m d h r w m y h c w g v p g b m g d a o c m a m q v i y w e v f x y c h
+push_back_column 43 m c h m p a v g w j f t i p t i k l d s p q g r p e a l h n s b q m i r p f i f d b m
+get 15 29 b
+set 3 14 m
+push_back_column 43 e q e j l r y z b y k x s a a y k k e y q f u x b u d s c g a e l g v e b n r p x h k
+set 32 41 s
+get 16 37 l
+set 0 33 y
+set 0 5 w
+set 22 22 a
+push_back_column 43 z d a p p g t t z b p m y y u y r c o n c y a j s r p v y v r r m v c m d l s p i d b
+set 2 35 v
+set 17 34 x
+get 28 9 f
+get 31 25 c
+push_back_column 43 g q s n l l i k e k w q v p c r w t z b i j x t x o u j a x d v f o l m o y c s t z r
+get 2 26 w
+pop_back_column
+get 39 25 r
+push_back_row 45 g p e k x l r w r a h e h n w g j w o e w w g x v y t d t e j c h j x u w y a n m h q d g
+get 2 29 s
+pop_back_row
+pop_back_row
+pop_back_row
+pop_back_column
+push_back_column 41 m i s w k n l m s s i r a a a l p g n w f e g t s t r a i r v g h w u q w x w n p
+set 20 24 p
+push_back_column 41 p w t p y h d b l p e v z d h v k z g e y z o q m k w e d f x w k a p i v s v o q
+pop_back_column
+get 14 23 .
+push_back_row 45 y w u z x i i l b g f k v c c l a x l i o p g h p x s u q n j i h c f d w n v o v y u m r
+set 39 28 s
+get 34 3 o
+push_back_column 42 d h e l z g t w n i g g f u v n d n n w h g x a z x y l z i s h f e x j q d v h i f
+pop_back_row
+set 6 18 k
+set 8 16 p
+get 28 23 v
+set 12 26 i
+get 16 27 s
+pop_back_row
+pop_back_column
+pop_back_row
+push_back_row 45 y y d d i c k n p y k i u f f t x d n g r v f g c q v k c a c u u a i e k t u l m v a f x
+pop_back_row
+set 37 12 q
+pop_back_row
+get 21 5 .
+set 11 22 d
+set 19 0 w
+get 11 44 r
+pop_back_column
+set 14 26 a
+pop_back_column
+get 31 5 a
+set 25 16 l
+get 20 2 .
+push_back_row 43 g j g l k e t o i a z x d q s k s c g z x s j g q i c d e t w k q r y q g n f g w u d
+pop_back_column
+get 9 18 b
+set 2 26 a
+get 19 23 .
+set 22 37 l
+pop_back_row
+push_back_row 42 s m p e d o m s w c n h h w a k q g v s a o u a f r h t w i b x n k z q t l p o o r
+pop_back_row
+get 27 23 n
+set 28 33 t
+pop_back_row
+push_back_row 42 v y f y y u n z w x k w u b b q k y m a c d t k i i s r a q p n f p l z g a u z q p
+push_back_column 38 v s k o h x y e x f m j y q n g m k j r i d j n g d g y l a p v b j l k n y
+set 33 37 o
+set 8 17 n
+set 0 19 e
+push_back_column 38 g q i m a q v y a j t n v e o x e k b g r x i r j j w b a n s d y b p q v a
+pop_back_column
+set 0 16 w
+pop_back_column
+push_back_column 38 u f f b t d n e c k t q w f r h a o z i o m h k j b e v m l k t u e x f h g
+get 20 30 y
+pop_back_row
+set 32 29 y
+push_back_row 43 h h h u k l r z k d b q s c j v n b j w y d n u a x z e p e m v a w m t q c h x o h p
+pop_back_row
+push_back_column 37 b t u z t t c a g h g d d i s r t q s u m t i q r j u y e s g n p a v q z
+pop_back_row
+pop_back_row
+push_back_column 35 y x l j u t n l j g y y v m g j x w n n c f x u u w q j i z g c z m b
+get 25 13 x
+pop_back_column
+pop_back_column
+set 17 35 x
+set 18 8 c
+pop_back_column
+set 30 4 t
+push_back_column 35 p t p x b y c q k z o z r f y y b c z e p j q e r z n r m m w k f x i
+set 30 22 q
+push_back_row 43 m j v d p h g e y e j b f g t j n i j u i a v l y k w b b r b t o k y r k g c q n h z
+pop_back_row
+pop_back_column
+pop_back_column
+get 8 38 d
+set 26 27 n
+set 13 11 k
+get 26 3 c
+set 6 34 h
+set 33 4 d
+push_back_row 41 i m g d x y w v y x g g r x u c j m u o t o v n j n u m l m f l g q s a i r k u h
+pop_back_row
+pop_back_row
+push_back_column 34 a b n g b j e s t n i u d a i j b b w e f s c d o a h i j u d i e z
+pop_back_column
+pop_back_column
+get 8 20 .
+get 24 34 m
+set 29 17 s
+pop_back_row
+get 3 34 m
+push_back_row 40 z s t t h w o j j u b x o v j c v r g n o e a i e b l b l a e y x j z j y e r n
+pop_back_row
+get 14 24 .
+set 10 23 u
+pop_back_column
+get 13 37 w
+get 6 3 .
+pop_back_row
+set 27 28 q
+pop_back_row
+push_back_row 39 f v b u e h s d z h r c m b j e c j i u y a x c x t f u u m e i w h u z x h k
+get 0 3 .
+get 8 29 t
+pop_back_column
+set 20 32 v
+get 16 35 j
+pop_back_row
+pop_back_row
+pop_back_row
+push_back_row 38 i d f e f j n c t x c w d y w g s a i d a z v y r i x p q e i d b a s r t r
+get 21 7 .
+set 3 2 d
+push_back_column 30 d y i s o b i k t l u l l o r e w g g r i s a l w e b d p d
+set 12 12 v
+get 10 8 .
+set 29 38 x
+set 14 38 e
+set 25 32 u
+get 4 6 .
+push_back_row 39 r w v x q i w c r t a g q r j m z n x u c d f a n j t v k q g k m z r t i g w
+set 23 35 z
+push_back_row 39 f v b d c m j e k j u n m r u r a x n t u w a k p b j y s e v y a a o b u s g
+get 8 33 d
+pop_back_column
+pop_back_column
+set 20 3 k
+get 15 34 a
+get 4 36 j
+pop_back_row
+set 3 36 q
+get 11 1 .
+set 5 32 z
+push_back_column 31 x q y h z r t h v u l j n y n k u s c x p c y y h m h t s c s
+set 23 18 e
+push_back_row 38 l q z x g h y u g w z x p n f q h h z p x w k x i p t c i p g d q r r r v h
+set 13 26 d
+set 18 33 w
+set 3 13 p
+pop_back_column
+pop_back_row
+get 2 4 v
+set 15 24 z
+pop_back_column
+set 17 5 f
+push_back_row 36 b j h u s k g k n t i h n p c p d k d w y f o i j j k y h s r a r m m z
+get 11 12 .
+push_back_column 32 x o w b s u s g h b d e q a k u i p u h k i o a h f y z v j m n
+push_back_row 37 r f z k o c h p k a z x z w p t s v i p y d j z q v b j k a q q f r y l u
+push_back_row 37 c g m c a b l l b i n b x t m k h h v i j w z p f e h f a o n q q g a i e
+pop_back_row
+get 28 6 v
+get 1 15 .
+set 31 15 t
+set 4 9 w
+push_back_row 37 s l c n t y x j t g b g v c e c x q j k b k p h n e n r m c v n j f t a o
+pop_back_column
+pop_back_column
+set 22 28 e
+pop_back_column
+set 24 18 o
+set 22 26 m
+get 17 7 .
+push_back_column 34 g u d d r y v u f p d o u r e d x e z e p g q h c y p f l f a j w i
+set 20 12 a
+pop_back_column
+pop_back_column
+set 20 19 w
+get 10 4 .
+push_back_column 34 z x o i r z t d t y j d k n q t m v r y r p k w a y g p f z o y q s
+get 3 1 .
+get 8 15 .
+push_back_row 34 p v b m l q v r s l e a k i w w x e x b b l i d w x t d w d g z f z
+pop_back_row
+pop_back_column
+push_back_column 34 s a p h l e a f s c l g x y c v z n j q n i s o u i k s p h p w j s
+push_back_column 34 j y p r m x k x d v z l b r f n q x k n i o u d g d i m c z n m d s
+set 20 17 l
+get 19 13 .
+push_back_column 34 c w d x k v k v z o e x a b x f o c n u q x z u b t l n h h s c z h
+push_back_row 36 y t h h n r b l j y x x e c b f k f q e t s j r n d v x w n n r d f l u
+get 7 8 .
+push_back_column 35 w w j l u b u b x s f k o p h i c n k f b d w g o p d o u z w b w y m
+get 0 9 .
+pop_back_column
+pop_back_column
+push_back_column 35 a i n l z h f z o n h j h w n d s d r n y g y r i w x d p s n x p n c
+get 28 21 j
+get 20 14 .
+push_back_row 36 p a q z s z f v k v o t v q l f j d n g p o t h d p z z r s w g m s m e
+push_back_row 36 u z l z i n q t b p k r r f a k u q u q u z o j d h o s w v g u o y d f
+pop_back_column
+push_back_column 37 k s q c t g z g a v v s w c z e v v m z e o x z i x t x m t g k r y c u c
+pop_back_row
+get 13 22 .
+pop_back_row
+push_back_column 35 a v n k q o n t m g y w r s o b y s a w b n k a s v t w o h l b x v r
+pop_back_column
+set 24 28 q
+set 30 4 r
+pop_back_column
+push_back_column 35 u o m k x q c p m s z r g n t j d f x q l o c m w j p y m b m d t w f
+pop_back_column
+pop_back_column
+set 3 14 k
+set 32 14 l
+get 6 20 .
+push_back_row 34 j b q b j o e k h n w b x k f c p r g n u w x e p l a s n t r d u p
+set 17 24 r
+pop_back_column
+push_back_row 33 f r i a q a h l z p d u t o u a t y k e j x g a y k u q b n j p z
+set 14 4 a
+get 5 15 .
+push_back_column 37 d l x t b p w p q f g q n x n t w n s n j b n g y b f e r m n e r c w y m
+set 25 6 n
+push_back_column 37 r b g q j n n q g v h t p p k l d n c b f r n a i b f p n i h i m s u n e
+pop_back_column
+get 7 5 .
+set 19 7 e
+pop_back_column
+push_back_column 37 k d l c k j y t g e x l v v e r n t x g h p x l h g k p k n t h y a o x i
+pop_back_row
+pop_back_row
+pop_back_row
+push_back_column 34 q t y b h s g v k b n z y o l c k a q s c h g t b u i h y o m f i b
+push_back_column 34 n t l q w u y r n e v i f c m v q m l y t x o i n g u x u e o d m n
+set 30 24 f
+get 28 11 j
+push_back_column 34 j q l s x l p i e h r b q g h c r c j d t u s x d x x a j z k w m m
+set 11 21 q
+set 14 3 k
+push_back_row 37 r r d m x p v n f o q b p v e x x k n x w t m f i e w s z d z q a f j l e
+push_back_row 37 p b e i h n i g l l m x m t o g c p x q h g a h c c q x p j m i r t j y g
+get 27 30 r
+get 7 33 t
+set 0 18 h
+set 7 32 t
+set 21 19 o
+set 11 28 z
+push_back_column 36 p w y z y x s m x m y y d b y d w n u c q q a n a d d r x d g s f z x k
+pop_back_row
+get 21 31 n
+pop_back_column
+push_back_row 37 l u y l k c k f e p o x n e y n d q w s s y s p r i r x g o t j b j j i l
+set 25 29 q
+push_back_row 37 o k b w y b h h z k x w b r z e q l g n o f u c k c f t t q k p i v f y o
+get 14 20 .
+set 15 28 d
+get 33 7 j
+set 19 16 y
+set 22 10 a
+get 21 27 f
+set 13 34 x
+pop_back_column
+set 0 8 a
+push_back_column 37 o b x u s j r g u v a s n h r x k t g f c f r x c w y d i r j h f n w z r
+get 28 26 i
+set 35 23 b
+set 13 35 i
+set 27 26 d
+pop_back_column
+get 9 20 d
+push_back_column 37 y j n w s h o s p v x h u m u d k r d k q u u f l b v m k q e t m v d u r
+set 17 35 s
+pop_back_row
+get 12 26 i
+set 15 29 f
+set 3 5 x
+get 29 12 d
+set 13 13 p
+set 35 18 z
+push_back_column 36 c n e c o k q k w r w e o p d k p t m v x i i c a b n f o j l l y e f e
+get 0 34 q
+push_back_column 36 p o q r u x z h a w e u o o n z y e q z u z t g v g v a u o d s w r x z
+get 12 17 .
+push_back_column 36 v f v l t i p r r j x g q r e w c x a r o w w w j z h t t h p y z x n u
+get 34 28 z
+get 3 4 a
+pop_back_row
+get 5 2 v
+set 27 10 e
+set 0 27 i
+set 1 33 c
+push_back_column 35 y n o m x w e u t b e f n u k s p r z b o l p x c c a h f a z v k q x
+pop_back_column
+push_back_row 40 k y t f d t h p g r w u w g k e d f a o m n z h e z o m t a l a c p u q q g h v
+get 19 24 .
+get 32 4 o
+push_back_column 36 x b r f w l c z o g f q s n j r j g k w a r m g h s q i i m p d i g i x
+set 4 40 n
+set 30 30 z
+push_back_column 36 k g n w v k u n z y k s e s v c d z c k y g q e r c a z d j q j q h n i
+set 11 2 v
+pop_back_row
+pop_back_row
+set 5 23 u
+get 17 2 .
+set 1 33 x
+set 6 11 e
+push_back_row 42 z g y a z e p z b o w c z n v c z t p y l p s x q g u n x v p p c n i x j r y n j a
+push_back_row 42 d h t t z h n k f e w a y l q l y n m n a x d y e p r x z o j u r k a h h h d m g i
+get 18 22 .
+set 13 11 z
+pop_back_column
+pop_back_column
+get 27 13 j
+get 17 1 .
+push_back_row 40 q e f k d c m v j s a x f o h i e d d f z e e g m x f x a z k z s i j g d n m h
+set 21 24 c
+set 8 25 p
+push_back_column 37 v w e u v k j v q j h p i p c x h m f m r y j h k p z g f i i i e l q y h
+pop_back_column
+pop_back_row
+set 6 15 k
+set 23 28 q
+pop_back_row
+set 2 36 u
+pop_back_row
+pop_back_row
+push_back_row 40 i z r k a b q q y f u r g i p p m f u r e a r j c v u l x r o e h l c n e b j y
+set 15 21 c
+pop_back_column
+pop_back_column
+set 16 22 c
+set 24 23 d
+pop_back_row
+get 6 35 y
+get 27 9 b
+pop_back_column
+pop_back_column
+pop_back_column
+set 26 6 c
+push_back_column 33 j y f j y c n m v a y y x y t w s o f g e w p m p i t j b q z u k
+set 12 20 h
+set 28 21 c
+set 29 30 n
+set 20 21 f
+set 6 1 g
+push_back_row 36 r x z k h k g t r p p i v r z m u l n o r f w x y l k m s e x b y r s m
+push_back_column 34 f c v r j m z g q m x s u h g s a f e f o b h y t w k p o a j b i k
+push_back_row 37 m a g w g e u z c b c m z m x n m f t o r c f p c r o a p l g r l t q t a
+push_back_row 37 a h h y c c i z y b n u v x t z m b n m a z y r r j x q h s j t d d b e w
+set 13 22 a
+pop_back_column
+pop_back_row
+push_back_row 36 d c p t d g t q z r e t i z u o y d o p j h x h f n j n k n r a l c s n
+set 32 31 n
+push_back_row 36 j n z g h b u k m i w z j t z i v l d m z m e x r j z h j o r d n m e k
+push_back_row 36 d t p g e v m m p q p v q r f f h s f u w i w d f e h e f k k x s e w k
+pop_back_row

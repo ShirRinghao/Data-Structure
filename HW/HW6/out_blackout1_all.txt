@@ -1,0 +1,19 @@
+Number of solution(s): 3
+Board:
+B#F
+L#L
+USE
+E#E
+S#S
+Board:
+B#F
+L#L
+U#E
+EKE
+S#S
+Board:
+B#F
+L#L
+U#E
+E#E
+SIS

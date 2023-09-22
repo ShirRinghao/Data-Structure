@@ -1,0 +1,8 @@
+zero
+puzzle
+solve
+quit
+rent
+read
+see
+seed

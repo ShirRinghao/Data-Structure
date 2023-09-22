@@ -1,0 +1,14 @@
+!Source:Prof.Holzbauer
+!Across
++3
++3
++3
+!Down
++5
++5
++3
+BXF
+LXL
+USE
+EKE
+SIS

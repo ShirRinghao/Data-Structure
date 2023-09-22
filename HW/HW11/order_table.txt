@@ -1,0 +1,8 @@
+                                      |sort |remove_dups|remove_dups|mode |
+                                      |     |same_order |any_order  |     |
+---------------------------------------------------------------------------
+vector                                |  D  |     E     |     D     |  D  |
+list                                  |  D  |     E     |     D     |  D  |
+BST (set/map)                         |  D  |     D     |     D     |  D  |
+PQ (priority_queue)                   |  D  |     X     |     D     |  D  |
+Hashing (unordered_map/unordered_set) |  X  |     C     |     C     |  C  |

@@ -1,0 +1,7 @@
+Number of solution(s): 1
+Board:
+####L
+####E
+####M
+####O
+MELON

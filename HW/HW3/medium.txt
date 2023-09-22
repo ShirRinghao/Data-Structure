@@ -1,0 +1,101 @@
+create 10 10 .
+set 9 0 x
+push_back_column 10 s h k l p j i l r e
+set 4 8 i
+pop_back_column
+pop_back_row
+push_back_column 9 k m x o f n d q t
+set 6 3 c
+push_back_row 11 y f j c j d q g j a o
+set 8 10 u
+set 0 6 i
+set 8 6 p
+get 2 10 x
+pop_back_row
+push_back_column 9 g l s h h h n p q
+get 6 11 n
+push_back_column 9 g k r s w g q e j
+push_back_column 9 i j b m o a f h j
+pop_back_column
+push_back_column 9 x q c d r l t b r
+get 0 0 .
+pop_back_column
+pop_back_column
+push_back_column 9 z q e q x s i r k
+set 4 11 t
+push_back_row 13 v r j y f m q g b j p i u
+pop_back_column
+pop_back_row
+get 3 7 .
+set 4 2 o
+get 6 10 d
+set 8 0 t
+get 6 0 .
+get 6 6 .
+set 1 0 z
+set 3 11 o
+set 0 3 l
+set 4 5 p
+set 1 0 d
+push_back_column 9 q a s r d u i i c
+pop_back_row
+set 4 3 d
+get 7 12 i
+set 7 2 o
+set 1 6 y
+pop_back_column
+pop_back_row
+pop_back_column
+push_back_row 11 z x m o z y b g o p z
+pop_back_column
+push_back_column 8 l m q p f c r r
+get 0 9 .
+pop_back_row
+pop_back_row
+set 3 3 e
+set 1 7 x
+set 0 0 u
+set 0 2 t
+set 5 6 d
+push_back_row 11 b w f y m e s w u c l
+set 2 0 k
+set 5 3 y
+set 2 6 v
+push_back_column 7 u s i e r h s
+push_back_row 12 u x a t b e n p e f q k
+set 7 3 p
+pop_back_row
+pop_back_row
+set 5 7 q
+get 2 4 .
+set 4 6 s
+set 3 0 m
+set 4 4 k
+get 4 8 i
+push_back_row 12 h y q b f m n b k z f a
+set 4 0 r
+get 3 1 .
+get 0 11 u
+set 4 6 d
+push_back_column 7 d l t f x i g
+set 1 11 v
+set 6 12 h
+get 6 11 a
+set 0 0 g
+push_back_row 13 w u p i o q g c x a c i f
+push_back_column 8 h f g z y a y m
+pop_back_column
+pop_back_row
+set 3 9 j
+set 3 0 e
+get 3 8 .
+get 0 6 i
+push_back_column 7 w o j x q h m
+set 2 10 o
+pop_back_row
+get 4 8 i
+set 4 7 x
+push_back_column 6 a x g j r s
+get 1 0 d
+set 0 9 r
+set 5 4 u

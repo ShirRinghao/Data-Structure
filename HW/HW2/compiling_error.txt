@@ -1,0 +1,29 @@
+C:\Users\lingh\Desktop\DS spring 2019\HW\HW2\main.cpp:44:32: 警告：ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+           char room_name[] = "") {
+                                ^
+C:\Users\lingh\Desktop\DS spring 2019\HW\HW2\main.cpp: 在函数‘int main(int, char**)’中:
+C:\Users\lingh\Desktop\DS spring 2019\HW\HW2\main.cpp:116:28: 警告：ISO C++ forbids converting a string constant to ‘char*’ [-Wwrite-strings]
+       room(allinfo, outfile);
+                            ^
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x4f): undefined reference to `Course::getDepartment[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0xcd): undefined reference to `departSort(Course const&, Course const&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x195): undefined reference to `Course::getTitle[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x1e0): undefined reference to `Course::getDate[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x638): undefined reference to `Course::getCode[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x693): undefined reference to `Course::getTitle[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x6eb): undefined reference to `Course::getDate[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x740): undefined reference to `Course::getBegin_time[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x792): undefined reference to `Course::getEnd_time[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x9f9): undefined reference to `Course::getRoom[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0xa77): undefined reference to `roomSort(Course const&, Course const&)'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0xaea): undefined reference to `Course::getRoom[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0xb7b): undefined reference to `Course::getTitle[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0xbc6): undefined reference to `Course::getDate[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x10ba): undefined reference to `Course::getDepartment[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x1115): undefined reference to `Course::getCode[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x1173): undefined reference to `Course::getTitle[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x11ce): undefined reference to `Course::getDate[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x1223): undefined reference to `Course::getBegin_time[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x1275): undefined reference to `Course::getEnd_time[abi:cxx11]() const'
+c:/mingw/bin/../lib/gcc/mingw32/8.2.0/../../../../mingw32/bin/ld.exe: C:\Users\lingh\AppData\Local\Temp\ccR1o1PO.o:main.cpp:(.text+0x17a7): undefined reference to `Course::Course(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, char, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >)'
+collect2.exe: 错误：ld 返回 1

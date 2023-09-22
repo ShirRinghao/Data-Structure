@@ -1,0 +1,21 @@
+create 4 4 .
+push_back_column 4 y e d r
+pop_back_column
+pop_back_row
+set 2 0 w
+set 0 2 j
+push_back_row 4 a l v h
+set 0 1 g
+get 2 2 .
+push_back_row 4 t s j h
+get 0 1 g
+pop_back_row
+get 2 0 w
+set 1 3 k
+push_back_row 4 c w q a
+push_back_column 5 f z d n z
+get 4 0 c
+set 4 2 f
+pop_back_column
+push_back_column 5 f x l t r
+get 1 4 x

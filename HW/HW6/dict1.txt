@@ -1,0 +1,7 @@
+want
+see
+quit
+else
+rent
+question
+handshake

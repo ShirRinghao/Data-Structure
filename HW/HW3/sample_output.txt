@@ -1,0 +1,46 @@
+table: 2 rows, 5 cols
+. . . . . 
+. . . . . 
+
+constructor test completed
+table: 2 rows, 5 cols
+a b c d e 
+f g h i j 
+
+set & get tests completed
+table: 3 rows, 5 cols
+a b c d e 
+f g h i j 
+A B C D E 
+
+add row test completed
+table: 3 rows, 4 cols
+a b c d 
+f g h i 
+A B C D 
+
+remove column test completed
+table: 3 rows, 5 cols
+a b c d X 
+f g h i Y 
+A B C D Z 
+
+add column test completed
+table: 2 rows, 5 cols
+a b c d X 
+f g h i Y 
+
+remove row test completed
+table: 2 rows, 5 cols
+a b c d X 
+f g h i Y 
+
+table: 3 rows, 5 cols
+a b c d X 
+f g Q i Y 
+A B C D E 
+
+copy constructor test completed
+assignment operator test completed
+Simple test completed.
+Student tests completed.
